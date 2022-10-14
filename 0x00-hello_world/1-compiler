@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILEXS
+gcc -c $CFILE
