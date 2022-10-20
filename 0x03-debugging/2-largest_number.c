@@ -31,4 +31,3 @@ largest = c;
 
 return (largest);
 }
-
